@@ -1,16 +1,11 @@
-# weather_app
 
-Weather app based on REST API
+# Weather App
 
-## Getting Started
+This is an weather app based on REST API from <a href = "https://openweathermap.org">Openweathermap</a>. Created by Flutter for both IOS and Android Operating System.
 
-This project is a starting point for a Flutter application.
+## App Demo
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center"><img src="https://user-images.githubusercontent.com/68607312/188332842-76c467f6-4334-42af-b4c8-6f61e3e5228c.gif"></p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## File Pattern Inside The `lib` Folder
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
